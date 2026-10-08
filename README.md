@@ -71,4 +71,4 @@ Open the application in your browser:
 
 ## Author
 
-Khaled - Holberton School
+Khalid - Holberton School
